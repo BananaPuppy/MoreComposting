@@ -18,5 +18,4 @@ If you find an issue, please [report](https://github.com/BananaPuppy/MoreCompost
 
 
 ### TODO
-Don't require restart on config change?<br>
-JEI Integration
+Don't require restart on config change?
