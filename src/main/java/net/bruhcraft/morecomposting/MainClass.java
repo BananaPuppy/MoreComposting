@@ -9,15 +9,18 @@ public class MainClass implements ModInitializer {
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.
 	// That way, it's clear which mod wrote info, warnings, and errors.
-	public static final String MOD_ID = "template-mod";
-    public static final Logger LOGGER = LoggerFactory.getLogger("MOD_ID");
+	public static final String MOD_ID = "morecomposting";
+    public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
+	//public static final MyConfig CONFIG = MyConfig.createAndLoad();
 
 	@Override
 	public void onInitialize() {
-		// This code runs as soon as Minecraft is in a mod-load-ready state.
-		// However, some things (like resources) may still be uninitialized.
-		// Proceed with mild caution.
+		LOGGER.info("More Composting Initializing");
+		registerCompost();
+		LOGGER.info("More Composting Initialized");
+	}
 
-		LOGGER.info("Hello Fabric world!");
+	public void registerCompost(){
+
 	}
 }
