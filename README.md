@@ -1,4 +1,4 @@
-# MoreComposting
+# More Composting
 Fully configure what you can compost!<br>
 
 ### Config
