@@ -1,5 +1,6 @@
 {
   "text.config.MoreComposting.title": "More Composting Configuration",
+
   "text.config.MoreComposting.option.CompostItems": "Items",
   "text.config.MoreComposting.option.CompostItems.tooltip": "you can put a '-'(minus) sign in front to remove compost"
 }
