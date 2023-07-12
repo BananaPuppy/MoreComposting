@@ -11,6 +11,7 @@ base {
 }
 
 repositories {
+	// owo
 	maven { url 'https://maven.wispforest.io' }
 }
 
