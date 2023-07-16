@@ -1,4 +1,4 @@
-# More Composting
+# [More Composting](https://modrinth.com/mod/more-composting)
 Fully configure what you can compost!<br>
 
 ### Config
